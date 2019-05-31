@@ -1,0 +1,27 @@
+﻿{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "rootDir": "/",
+    "sourceMap": true,
+    "target": "es5",
+    "module": "amd",
+    "declaration": false,
+    "noImplicitAny": false,
+    "noResolve": false,
+    "removeComments": true,
+    "noLib": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "importHelpers": false
+  },
+  "filesGlob": [
+    "app/**/*.ts",
+    "typings/index.d.ts",
+    "scripts/typings/**/*.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "jspm_packages"
+  ]
+}

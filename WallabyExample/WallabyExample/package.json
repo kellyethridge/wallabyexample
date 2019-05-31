@@ -1,0 +1,12 @@
+{
+  "jspm": {
+    "dependencies": {
+      "fetch": "github:github/fetch@^3.0.0"
+    },
+    "devDependencies": {}
+  },
+  "devDependencies": {
+    "electron": "^5.0.2",
+    "jasmine": "^3.4.0"
+  }
+}
