@@ -6,7 +6,7 @@
     "devDependencies": {}
   },
   "devDependencies": {
-    "electron": "^5.0.2",
+    "electron": "^9.1.0",
     "jasmine": "^3.4.0"
   }
 }
